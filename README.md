@@ -4,13 +4,13 @@ A production-ready FastAPI backend designed for small businesses and personal fi
 
 ---
 
-## 🚀 Live API Documentation
+##  Live API Documentation
 **Swagger UI:** https://finance-backend-assignment-production.up.railway.app/docs  
 
 
 ---
 
-## 🛡️ Key Features
+##  Key Features
 - **Secure Authentication:** User registration and login using `bcrypt` password hashing (Direct implementation for Python 3.13 compatibility).
 - **JWT Authorization:** Protected routes requiring a Bearer Token for access.
 - **Role-Based Access Control (RBAC):**
@@ -22,7 +22,7 @@ A production-ready FastAPI backend designed for small businesses and personal fi
 
 ---
 
-## 🛠️ Technical Stack
+##  Technical Stack
 - **Language:** Python 3.13
 - **Framework:** FastAPI
 - **ORM:** SQLAlchemy
@@ -31,7 +31,7 @@ A production-ready FastAPI backend designed for small businesses and personal fi
 
 ---
 
-## 📥 Local Installation & Setup
+##  Local Installation & Setup
 
 1. **Clone the repository:**
    ```bash
