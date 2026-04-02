@@ -5,8 +5,8 @@ A production-ready FastAPI backend designed for small businesses and personal fi
 ---
 
 ## 🚀 Live API Documentation
-**Swagger UI:** [PASTE_YOUR_RAILWAY_URL_HERE]/docs  
-*(Note: If the link is not yet active, follow the Local Setup instructions below.)*
+**Swagger UI:** https://finance-backend-assignment-production.up.railway.app/docs  
+
 
 ---
 
@@ -40,7 +40,7 @@ A production-ready FastAPI backend designed for small businesses and personal fi
 
 
 
-2. ** Create a Virtual Environment:**
+2. **Create a Virtual Environment:**
    python -m venv venv
    .\venv\Scripts\activate
 
@@ -74,7 +74,7 @@ A production-ready FastAPI backend designed for small businesses and personal fi
          Expense: {"amount": 1500, "type": "Expense", "category": "Software"}
 
 
-     4. ** View Dashboard**
+     4. **View Dashboard**
         Access GET /dashboard/summary to see the calculated totals and category-wise breakdown.
 
      ## Project Structure
