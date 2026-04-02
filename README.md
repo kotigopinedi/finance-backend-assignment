@@ -1,4 +1,4 @@
-# Finance Dashboard API 💰
+# Finance Dashboard API 
 
 A production-ready FastAPI backend designed for small businesses and personal finance management. This system features **Role-Based Access Control (RBAC)**, secure **JWT Authentication**, and automated **Financial Analytics**.
 
